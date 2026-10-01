@@ -1,0 +1,18 @@
+---
+description: ZynVoss writing voice for copy, README, and comments
+globs:
+  - "**/*.md"
+  - "**/*.html"
+  - "**/*.txt"
+alwaysApply: false
+---
+
+# Voice
+
+Talk like a person at the company, not a landing page.
+
+- Specific beats generic. Short beats complete-sounding.
+- Banned filler: seamless, elevate, leverage, unlock, empower, robust, holistic, cutting-edge, world-class, journey, “in today’s fast-paced…”.
+- Do not write in parallel triples as filler. The public slogan can stay where it already is; new copy should not echo it.
+- Do not label output as CEO brief / Org actions / Execution / Next unless asked.
+- Pictures and brand files first. Generated gloss only if the CEO asks.

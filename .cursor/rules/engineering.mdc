@@ -1,0 +1,14 @@
+---
+description: How ZynVoss writes and changes code
+alwaysApply: true
+---
+
+# Engineering
+
+- Prefer the existing stack in the repo you are in. Do not add a framework to make a small fix.
+- Small, reversible diffs. Leave unrelated files alone.
+- Comments explain a constraint the code cannot. They do not narrate the change.
+- Do not commit secrets, `.env` with live keys, or machine-local paths that do not belong in git.
+- Do not restyle the live ZynVoss website or client portal unless the CEO asks. Bug fixes and copy the CEO pointed at are allowed.
+- Tests and a smoke check beat a claim that it works. Say what you verified.
+- Windows is the company machine. PowerShell is the default shell. `&&` is not reliable here; chain with `;`.

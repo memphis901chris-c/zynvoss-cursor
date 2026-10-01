@@ -1,0 +1,11 @@
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.log
+*.tmp
+.env
+.env.*
+!.env.example
+node_modules/
+.cursor/*.log
+.cursor/debug.log
