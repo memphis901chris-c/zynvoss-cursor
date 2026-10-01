@@ -31,6 +31,7 @@ AGENTS.md                         Always-on instructions for coding agents
 .cursor/rules/voice.mdc           How copy and comments should read
 docs/how-we-use-cursor.md         Daily use
 docs/contact-cursor-team.md       Note for Cursor’s team
+docs/slack.md                     Connect this repo in Slack
 ```
 
 ## Open in Cursor
@@ -38,6 +39,12 @@ docs/contact-cursor-team.md       Note for Cursor’s team
 1. Clone this repository.
 2. File → Open Folder → this directory.
 3. Confirm `.cursor/rules` and `AGENTS.md` are active in Cursor Settings → Rules.
+
+## Slack
+
+`@Cursor` in Slack and GitHub notifications both need a one-time install in the browser. Steps and paste-ready commands: [docs/slack.md](docs/slack.md).
+
+Default repo string: `memphis901chris-c/zynvoss-cursor`
 
 ## Contact
 
